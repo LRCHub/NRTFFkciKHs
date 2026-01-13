@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミがいないと",
+  "base_artist": "AYANE",
+  "createdAt": "2026-01-13T09:59:56.218556Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミがいないと",
+      "artist": "AYANE",
+      "has_synced": false,
+      "path": "select/pl_01_キミがいないと_AYANE.txt"
+    }
+  ]
+}
